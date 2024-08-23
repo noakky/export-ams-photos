@@ -20,4 +20,4 @@
 - Выполните скрипт:
 
 ```powershell
-.\your_script_name.ps1
+.\export-ams-photos.ps1
